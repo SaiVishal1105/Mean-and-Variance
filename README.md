@@ -1,4 +1,6 @@
 Developed by    : Sai Vishal D
+
+
 Register number : 212223230180
 
 #  Mean and variance of a discrete  distribution
